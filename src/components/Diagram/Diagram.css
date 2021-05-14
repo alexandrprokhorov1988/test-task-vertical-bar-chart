@@ -1,0 +1,14 @@
+.diagram {
+  max-width: 768px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+}
+
+.svg__rect:hover {
+  fill: #03a9f4;
+}
